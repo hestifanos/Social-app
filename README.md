@@ -32,4 +32,3 @@ hooks/           Shared React hooks
 assets/          Fonts and images
 ```
 
-The project also includes Firebase and notification dependencies; configure and secure the corresponding services before adding those features or shipping a build.
